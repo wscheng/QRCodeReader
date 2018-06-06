@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRCodeReader</string>
+    <string name="open_qr_code_reader">Open QR Code Reader</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="scan_hint">Place the QR Code into the square</string>
+</resources>
